@@ -1,4 +1,7 @@
 # Database_Server_and_Client
+
+Coursework files for Object Oriented Programming Unit undertaken at University of Bristol. Grage Achieved - 70%
+
 Implement create, use, select, join, alter, drop, delete SQL queries and performed data manipulation.
 
 Operating querues include the commands,
